@@ -1,0 +1,10 @@
+/*.db
+/*.opendb
+/Debug
+/Release
+/DllProject/Debug
+/DllProject/Release
+/LibProject/Debug
+/LibProject/Release
+/ExeProject/Debug
+/ExeProject/Release
